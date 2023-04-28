@@ -12,6 +12,6 @@ REST API,
 Good understanding of AWS and
 Network troubleshooting
 
-Experience: I have worked as technical solutions consultant in Aruba, a Hewlett Packard Enterprise company.
+Experience: I have worked as technical solutions consultant at Aruba, a Hewlett Packard Enterprise company.
 Network troubleshooting of Switching and Routing is the core technical skill that I gained while working at Aruba.
-I have good hands on with both enterprise and data center grade switches and routers of Aruba and HPE.
+I have good hands on with both enterprise and data center grade switches/routers from Aruba/HPE.
