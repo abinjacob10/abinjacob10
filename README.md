@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**abinjacob10/abinjacob10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Abin Jacob. I am a post graduade in cloud computing from Atlantic Technological University, Donegal.
+I enjoy using Linux, Ansible and Kubernetes. I am interested to work in cloud native technologies.
 
-Here are some ideas to get you started:
+Skills:
+Linux bash scripting.
+Python
+Ansible
+Kubernetes
+REST API
+Good understanding of AWS.
+Network troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience: I have worked as technical solutions consultant in Aruba, a Hewlett Packard Enterprise company.
+Network troubleshooting of Switching and Routing is the core technical skill that I gained while working at Aruba.
+I have good hands on with both enterprise and data center based switches and routers of Aruba and HPE.
