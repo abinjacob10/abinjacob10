@@ -10,7 +10,7 @@ Ansible,
 Kubernetes,
 REST API,
 good understanding of AWS and
-network troubleshooting
+network troubleshooting.
 
 Experience: I have worked as technical solutions consultant at Aruba, a Hewlett Packard Enterprise company.
 Network troubleshooting of Switching and Routing is the core technical skill that I gained while working at Aruba.
