@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Abin Jacob. I am a post graduade in cloud computing from Atlantic Technological University, Donegal.
-I enjoy using Linux, Ansible and Kubernetes. I am interested to work in cloud native technologies.
+I enjoy using Linux and Ansible. I am interested to work in cloud native technologies.
 
 Skills:
 Linux BASH scripting,
