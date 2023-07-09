@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 My name is Abin Jacob. I am a post graduade in cloud computing from Atlantic Technological University, Donegal.
-I enjoy using Linux and Ansible. I am interested to work in cloud native technologies.
 
-Skills:
+Recently learnt languages/platforms at basic level:
 Linux BASH scripting,
+Golang
 Python,
 Ansible,
+Docker Swarm,
 Kubernetes,
 REST API,
-good understanding of AWS and
-network troubleshooting.
+AWS foundational level understanding
 
-Experience: I have worked as technical solutions consultant at Aruba, a Hewlett Packard Enterprise company.
-Network troubleshooting of Switching and Routing is the core technical skill that I gained while working at Aruba.
-I have good hands on with both enterprise and data center grade switches/routers from Aruba/HPE.
+Experience: Worked as solutions consultant at Aruba, a Hewlett Packard Enterprise company.
+Switching and Routing is the core technical skill that I gained while working at Aruba.
+I have good hands on practice with enterprise and data center grade switches/routers from Aruba/HPE.
