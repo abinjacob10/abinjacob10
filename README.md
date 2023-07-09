@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Abin Jacob. I am a post graduade in cloud computing from Atlantic Technological University, Donegal.
+My name is Abin Jacob. I am a post graduate in cloud computing from Atlantic Technological University, Donegal.
 
 Recently learnt languages/platforms at basic level:
 Linux BASH scripting,
