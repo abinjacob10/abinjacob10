@@ -4,7 +4,7 @@ My name is Abin Jacob. I am a post graduate in cloud computing from Atlantic Tec
 
 Recently learnt languages/platforms at basic level:
 Linux BASH scripting,
-Golang
+Golang,
 Python,
 Ansible,
 Docker Swarm,
@@ -13,5 +13,5 @@ REST API,
 AWS foundational level understanding
 
 Experience: Worked as solutions consultant at Aruba, a Hewlett Packard Enterprise company.
-Switching and Routing is the core technical skill that I gained while working at Aruba.
+**Network troubleshoooting** of switched and routed network is the core technical skill that I gained while working at Aruba.
 I have good hands on practice with enterprise and data center grade switches/routers from Aruba/HPE.
