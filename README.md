@@ -3,13 +3,13 @@
 My name is Abin Jacob. I am a post graduate in cloud computing from Atlantic Technological University, Donegal.
 
 Core skills are:
-Linux command line and bash scripting
-Network configuration, verification, monitoring and troubleshooting
-Network hardware Gears: Cisco, Aruba, HPE , Fortigate firewall
-Network Monitoring tools: IMC, Nagios
-Packet capture analysis: Wireshark
-Debugging, network design verification
-REST API
+* Linux command line and bash scripting
+* Network configuration, verification, monitoring and troubleshooting
+* Network hardware Gears: Cisco, Aruba, HPE , Fortigate firewall
+* Network Monitoring tools: IMC, Nagios,
+* Packet capture analysis: Wireshark
+* Debugging, network design verification
+* REST API
 
 Recently learnt languages/platforms at basic level:
 - Golang,
